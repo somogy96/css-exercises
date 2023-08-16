@@ -1,0 +1,19 @@
+.red-bg {
+    background-color: #FA8072;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
+
+#num2 {
+    color:rgb(68, 68, 195);
+    font-size: 36px;
+}
+
+#num4 {
+    font-weight: bold;
+    background-color: rgb(115, 176, 115);
+    font-size: 24px;
+}
