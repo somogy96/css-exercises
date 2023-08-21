@@ -5,11 +5,22 @@ body {
 img {
   width: 100px;
   height: 100px;
+  padding: 12px;
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  justify-content: center;
+  gap: 52 px;
 }
 
 /* do not edit this footer */
@@ -24,3 +35,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 24px;
+}
+
+.text {
+  text-align: center;
+}
+
